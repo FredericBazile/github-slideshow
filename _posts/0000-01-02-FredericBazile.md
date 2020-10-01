@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+L'important n'est pas la destination mais le chemin !
 Use the left arrow to go back!
